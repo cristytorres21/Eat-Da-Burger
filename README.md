@@ -7,6 +7,8 @@ An app that lets users input the names of burgers they'd like to eat. When a use
 Used Node and mySQL to query and route data into app, and Handlebars to generate the HTML.
 
 ## NPM Packages 
-- express
-- method-override
 - body-parser
+- express
+- express-handlebars
+- method-override
+- mysql
